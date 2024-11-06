@@ -1,0 +1,7 @@
+This program aims to utilize the camera's secondary development kit to implement a simple microscope image acquisition and processing system using image processing techniques. The system is developed in C++ and utilizes the Qt application framework for the graphical user interface (GUI). It includes a start/stop button and interacts with the camera's dynamic link library (DLL) functions to acquire microscopic images in real time, process them, and display them on the screen, enabling automatic microscope image acquisition and processing.
+
+The system supports basic image processing functionalities such as brightness adjustment, binarization, edge detection, and allows the saving of both the original and processed images for subsequent data processing and analysis. Additionally, the program includes features for automatic brightness adjustment and white balance correction to ensure high-quality and clear images. 
+
+The program leverages modern information technology for advanced microscope cell observation. The advantages of using Qt for developing the microscope image acquisition and processing system are highlighted, showcasing the framework's capabilities. Experimental results demonstrate that the program performs well, with good stability, and meets the basic requirements for microscope image processing. It shows great potential for applications in fields such as life sciences, medicine, and materials science, with significant value and importance.
+
+Keywords: Qt, C++, secondary development, image acquisition
