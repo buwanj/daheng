@@ -1,0 +1,49 @@
+<mxfile host="Electron" modified="2023-04-26T13:06:27.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="xCUY-iaj8kC4HhjTbsNj" version="21.2.1" type="device">
+  <diagram name="第 1 页" id="Ocz6oDJFH4SevkAfSCcd">
+    <mxGraphModel dx="942" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0MPOcdzsjoA4T8lI9sml-1" target="0MPOcdzsjoA4T8lI9sml-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-11" value="MOC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0MPOcdzsjoA4T8lI9sml-7">
+          <mxGeometry x="-0.4727" y="1" relative="1" as="geometry">
+            <mxPoint x="-18" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-1" value="&lt;font color=&quot;#ffffff&quot;&gt;Qt C++头文件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-8" value="UIC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MPOcdzsjoA4T8lI9sml-2" target="0MPOcdzsjoA4T8lI9sml-4">
+          <mxGeometry x="0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-2" value="窗口UI文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MPOcdzsjoA4T8lI9sml-3" target="0MPOcdzsjoA4T8lI9sml-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-13" value="RCC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0MPOcdzsjoA4T8lI9sml-9">
+          <mxGeometry x="-0.6273" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-3" value="资源文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-10" value="标准C++编译器" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0MPOcdzsjoA4T8lI9sml-4" target="0MPOcdzsjoA4T8lI9sml-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-4" value="标准C++程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0MPOcdzsjoA4T8lI9sml-5" value="可执行文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

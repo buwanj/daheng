@@ -1,0 +1,46 @@
+<mxfile host="Electron" modified="2023-04-27T13:30:58.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="6QsxbD-boWZ6bhFKQfZC" version="21.2.1" type="device">
+  <diagram name="第 1 页" id="8vb1Q_0aVTbVaTmLlvlf">
+    <mxGraphModel dx="400" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FigcKovKg2O1LZybMEYT-1" value="初始化库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FigcKovKg2O1LZybMEYT-2" target="FigcKovKg2O1LZybMEYT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-2" value="&lt;div&gt;枚举设备列表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FigcKovKg2O1LZybMEYT-3" target="FigcKovKg2O1LZybMEYT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-3" value="&lt;div&gt;设置采集模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FigcKovKg2O1LZybMEYT-4" target="FigcKovKg2O1LZybMEYT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-4" value="&lt;div&gt;注册图像处理回调函数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="76.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FigcKovKg2O1LZybMEYT-5" target="FigcKovKg2O1LZybMEYT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-5" value="&lt;div&gt;发送开采命令&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="76.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FigcKovKg2O1LZybMEYT-6" target="FigcKovKg2O1LZybMEYT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-6" value="&lt;div&gt;发送停采命令&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="76.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FigcKovKg2O1LZybMEYT-7" value="&lt;div&gt;注销采集回调&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="240" width="76.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
